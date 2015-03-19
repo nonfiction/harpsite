@@ -1,0 +1,15 @@
+{
+  "name": "harpsite",
+  "version": "1.0.0",
+  "description": "Harp Boilerplate",
+  "scripts": {
+    "server": "harp server",
+    "build": "harp compile",
+    "test": "echo 'Error: no test specified' && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "harp": "^0.15.2"
+  }
+}
